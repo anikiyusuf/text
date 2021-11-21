@@ -1,0 +1,72 @@
+body{
+    background:rgb(64, 148, 64);
+    cursor: pointer;
+    font-family:  Helvetica;
+}
+header{
+    color:chartreuse;
+}
+
+div.box1{
+    background:orange;
+    width: 14%;
+    padding: 4rem;
+    float: left;
+    
+}
+div .box1 h2{
+    color: white;
+}
+div .box1 p{
+    color: white;
+    
+}
+div .box1 a{
+    color:orangered ;
+    background: white;
+    padding: 4px;
+    border-radius: 30rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+div .box2{
+    background:rgb(19, 104, 93);
+    width: 14%;
+    padding: 4rem;
+    float: left;
+}
+div .box2 h2{
+    color: white;
+}
+div .box2 p{
+    color: white;
+    
+}
+div .box2 a{
+    color:rgb(25, 100, 25) ;
+    background: white;
+    padding: 4px;
+    border-radius: 30rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div .box3{
+    background:rgb(4, 59, 4);
+    width: 14%;
+    padding: 4rem;
+    float: left;
+    
+}
+div .box3 h2{
+    color: white;
+}
+div .box3 p{
+    color: white;
+    
+}
+div .box3 a{
+    color:rgb(7, 53, 7) ;
+    background: white;
+    padding: 4px;
+    border-radius: 30rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
